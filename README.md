@@ -2,6 +2,7 @@
 
 Installation for STM32CubeIDE:
 [ST Microelectronics software installation](https://www.st.com/en/development-tools/stm32cubeide.html)
+
 F411RE basic details and **pinout**:
 [NUCLEO-F411RE](https://os.mbed.com/platforms/ST-Nucleo-F411RE/)
 
