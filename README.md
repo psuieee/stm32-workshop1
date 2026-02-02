@@ -6,11 +6,11 @@ Installation for STM32CubeIDE:
 F411RE basic details and **pinout**:
 [NUCLEO-F411RE](https://os.mbed.com/platforms/ST-Nucleo-F411RE/)
 
-***In order to use the printf() function your code, add this function***
+***In order to use the printf() function your code => IT IS CRUCIAL THAT YOU DO THIS***
 ```C
 int _write(int file, char* ptr, int len) {
 	for(int i = 0; i < len; i++) {
-		ITM_SendChar((*ptr++));					// ADD THIS
+		ITM_SendChar((*ptr++));
 	}
 	return len;
 }
