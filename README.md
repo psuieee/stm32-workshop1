@@ -15,6 +15,7 @@ int _write(int file, char* ptr, int len) {
 	return len;
 }
 ```
+_(This is also in the starter.c file)_
 
 _Links for more resources_:
 
