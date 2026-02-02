@@ -1,6 +1,6 @@
 # STM32 SP26 Workshop 1: Intro to STM32
 
-Installation for STM32CubeIDE:
+**Installation for STM32CubeIDE**:
 [ST Microelectronics software installation](https://www.st.com/en/development-tools/stm32cubeide.html)
 
 F411RE basic details and **pinout**:
