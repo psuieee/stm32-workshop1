@@ -6,8 +6,7 @@
 F411RE basic details and **pinout**:
 [NUCLEO-F411RE](https://os.mbed.com/platforms/ST-Nucleo-F411RE/)
 
-***In order to use the printf() function your code => IT IS CRUCIAL THAT YOU DO THIS***
-_Copy the following into main.c_
+***In order to use the printf() function your code IT IS CRUCIAL THAT YOU DO THIS => copy into <ins>main.c</ins>***
 ```C
 int _write(int file, char* ptr, int len) {
 	for(int i = 0; i < len; i++) {
