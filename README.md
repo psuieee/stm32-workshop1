@@ -18,8 +18,8 @@ int _write(int file, char* ptr, int len) {
 ```
 _(This is also in the starter.c file)_
 
+### LED blink circuit
 ![LED blink circuit](led_blink_circuit.png)
-_LED blink circuit_
 
 _Links for more resources_:
 
