@@ -18,6 +18,9 @@ int _write(int file, char* ptr, int len) {
 ```
 _(This is also in the starter.c file)_
 
+![LED blink circuit](led_blink_circuit.png)
+_LED blink circuit_
+
 _Links for more resources_:
 
 * [**F411RE reference manual**](https://www.st.com/resource/en/reference_manual/rm0383-stm32f411xce-advanced-armbased-32bit-mcus-stmicroelectronics.pdf)
